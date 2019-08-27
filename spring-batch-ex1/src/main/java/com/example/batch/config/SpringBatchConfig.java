@@ -43,7 +43,7 @@ public class SpringBatchConfig {
 	//ETL-JOB is a name of JOB. we can give any name for the Job
 	//Incrementer is sequence of ids assign to every run
 	//Every time I run a batch, run id increment one by one
-	//edit rem dewdw
+	//edit remo dwdw
 	@Bean
 	public Job job() {
 		
